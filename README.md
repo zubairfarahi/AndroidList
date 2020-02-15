@@ -6,4 +6,4 @@ link
 
 images1
 
-![image](C:\Users\George\Desktop\AndroidList\img1.png)
+![image](img1.PNG)
